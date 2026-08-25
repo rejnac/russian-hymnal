@@ -4,7 +4,7 @@ The repository contains all the 384 Psalmi Siona hymnal lyrics in Russian langua
 
 Disclosure: The lyrics were prepared on VideoPsalm Church Presentation software (open-source), exported in its native (.vpc) format, and extracted as (.Json) file.
 
-Psalmi Siona is part of several other SDA music lyrics under refinement in different languages. 
+Psalmi Siona database is part of several other SDA music lyrics under refinement in different languages. 
 
 # Mission
 Enhancing Adventist worship in local languages.
